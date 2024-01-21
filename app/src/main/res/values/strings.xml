@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ModernLogin</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <!-- _ strings -->
+
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="text_string"></string>
+    <string name="welcome_back__string">Welcome Back!</string>
+    <string name="shop_now_string">Login</string>
+    <string name="shop_now_ek1_string">Create an account</string>
+    <string name="forgot_your_password__string">Forgot your password?</string>
+</resources>
